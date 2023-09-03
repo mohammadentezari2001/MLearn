@@ -1,0 +1,25 @@
+.foot{
+
+    background-color: #001236 !important;
+    color: white;
+}
+
+#twenty{
+
+
+    max-height: 300px;
+}
+
+
+@font-face {
+    font-family: badr;
+    src: url(./fonts/BBadr.woff) format("woff");
+}
+
+
+
+body{
+    font-family: badr !important;
+    font-size: xx-large !important;
+    
+}
